@@ -1,0 +1,20 @@
+body
+{
+background-color:#d0e4fe;
+}
+h1,h2
+{
+font-family:"Trajan Pro";
+color:white;
+text-align:center;
+}
+p
+{
+font-family:"Trajan Pro";
+font-size:30px;
+}
+
+a:link {font-size:15 px;color:#FFFFFF;font-family:"Trajan Pro";}      /* unvisited link */
+a:visited {font-size:15 px;color:#FFFFFF;font-family:"Trajan Pro";}  /* visited link */
+a:hover {font-size:15 px;color:#FF00FF;font-family:"Trajan Pro";}  /* mouse over link */
+a:active {font-size:15 px;color:#0000FF;font-family:"Trajan Pro";}  /* selected link */
